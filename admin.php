@@ -5,7 +5,7 @@
 <title>Insert title here</title>
 </head>
 <script type="text/javascript">
-	window.location ="./view/main.php"
+	window.location ="./view/admin_main.php"
 </script>
 <body>
 
